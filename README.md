@@ -37,7 +37,7 @@ I thrive working in teams, but I'm also independent and responsible. I love to l
 ---
 
 ## 📫 Connect With Me
-- [Portfolio](https://oblno.github.io/portfolio/)  - [LinkedIn](https://www.linkedin.com/in/omidbl/)  - [E-Mail](mailto:oblno@pm.me)
+- [Portfolio](https://oblno.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/omidbl/) | [E-Mail](mailto:oblno@pm.me)
 ---
 
 _Always happy to connect, collaborate, or chat about web development!_
