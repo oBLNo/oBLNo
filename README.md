@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Omid — oBLNo
+# 👋 Hi, I'm Omid
 
 **Fullstack Web Developer** passionate about building modern, dynamic web applications with PHP & JavaScript.
 
