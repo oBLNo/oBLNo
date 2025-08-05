@@ -14,7 +14,7 @@ I thrive working in teams, but I'm also independent and responsible. I love to l
 
 ## 🚀 Favorite Project
 
-- **All OF THEM :D**
+- **Honestly, all of them!**
 
 ---
 
