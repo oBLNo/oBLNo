@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm Omid, a Junior Fullstack Developer focused on PHP and the Laravel framework. My two-year training as an application developer (IHK) gave me a strong foundation in programming, database development, and agile project work.
+I'm Omid, a Junior Fullstack Developer focused on PHP and the Laravel framework. My two-year training as an application developer gave me a strong foundation in programming, database development, and agile project work.
 
 I thrive working in teams, but I'm also independent and responsible. I love to learn, grow, and explore new experiences every day!
 
